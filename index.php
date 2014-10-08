@@ -1,3 +1,8 @@
+
+<?php
+  header("Location: components/new-page.php");
+  exit;
+?>
 <!DOCTYPE html>
 <html>
   <head>
